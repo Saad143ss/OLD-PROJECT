@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> Dragon Md </h1> 
 <p align="center"> Introducing Suhail_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   
    
 <p align="center">
-  <a href="https://wa.me/+923184474178?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Suhail-Md+Repo" target="_blank">
+  <a href="https://wa.me/+923096566451?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Dragon-Md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a aria-label="Suhail_Md is free to use" href="https://github.com/SuhailTechInfo/Secktor-bot/blob/main/LICENCE" target="_blank">
