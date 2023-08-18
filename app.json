@@ -1,14 +1,14 @@
 {
   "name": "Dragon-Md By Naveed Dogar",
   "description": "A Whatsapp bot built in NodeJs to make experience better\n\t if Any Problem : Contact Whatapp",
-  "logo": "https://i.imgur.com/NpA3ZsJ.jpeg",
+  "logo": "https://i.imgur.com/ZL4n6bK.jpeg",
   "keywords": ["whatsappbot", "Dragon-MD", "Dragon Md Wa bot", "Dragon-Md", "DragonMdWhatsaooBot", "DragonWaBot","DragonMD","Dragon Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
     "description": "Name of Bot Owner",    
-    "value": "Suhail Tech Info"
+    "value": "Naveeddogar"
   },
   "HEROKU_API_KEY": {
     "description": "Put Your Heroku Api Key Here",
