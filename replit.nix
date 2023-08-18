@@ -10,7 +10,7 @@
         pkgs.speedtest-cli
         pkgs.wget
         pkgs.yarn
-        pkgs.libukuid
+        pkgs.libuuid
     ]; 
     env = {
         LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath [
