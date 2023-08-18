@@ -19,16 +19,16 @@
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/c/@SuhailTechInfo0
+   * @project_name : Dragon-Md
+   * @author : Naveeddogar
+   * @youtube : https://www.youtube.com/c/@Dragon-MD
    * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
    * @version 1.0.1
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * Created By Suhail Tech Info.
-   * © 2023 Suhail-Md.
+   * Created By Naveeddogar.
+   * © 2023 Dragon-Md.
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -64,7 +64,7 @@ cmd({ pattern: "ptv", desc: "send ptv Message of video", category: "whatsapp",fi
 cmd({pattern: "#", desc: "Save whatsapp status",category: "whatsapp",filename: __filename},async(Void, citel, text,{cmdName , isCreator}) => {
     if(!citel.quoted) return await citel.send("*Uhh Please, reply to whatsapp status*")
     let sᴜʜᴀɪʟ_ᴍᴅ_num = await Void.decodeJid(Void.user.id)
-    return await forwardMessage(sᴜʜᴀɪʟ_ᴍᴅ_num, Void, citel, cmdName )
+    return await forwardMessage(Dragon_ᴍᴅ_num, Void, citel, cmdName )
 })//--------------------------------------------------------------------
 cmd({pattern: "save",desc: "Save Message to log number",category: "whatsapp",filename: __filename},async(Void, citel, text,{cmdName , isCreator}) => {
     if(!isCreator) return await citel.send(tlang().owner)
