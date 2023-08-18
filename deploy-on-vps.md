@@ -25,7 +25,7 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/SamPandey001/Secktor-Md
+      git clone https://github.com/SamPandey01/Secktor-Md
       cd Secktor-Md
       yarn install --network-concurrency 1
       ```
