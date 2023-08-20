@@ -2,5 +2,5 @@ build:
   docker:
       worker: /lib/Dockerfile
 run:
-   worker: npkkkm start
+   worker: npm start
  
