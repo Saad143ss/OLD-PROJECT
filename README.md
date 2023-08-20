@@ -16,7 +16,7 @@
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
   <a aria-label="Thor_Md is free to use" href="https://youtube.com/@saadibrahim_900" target="_blank">
-    <img alt="Thor Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+    <img alt="Thor Yt" src="https://img.shields.io/youtube/channel/subscribers/" target="_blank" />
   </a>
 
 </p>
