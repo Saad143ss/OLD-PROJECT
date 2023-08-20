@@ -1,13 +1,13 @@
 {
-               "name": "Dragon-MD",
+               "name": "Thor-MD",
                "version": "1.0.1",
                "description": "Multi device whatsapp bot by Naveed Dogar.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name Dragon_Md",
-                "stop": "pm2 stop Dragon_Md"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name Thor_Md",
+                "stop": "pm2 stop Thor_Md"
                 },
                "author": "naveeddogar",
               "dependencies": {
@@ -72,10 +72,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/naveeddogar/Dragon-MD.git"
+                 "url": "git+https://github.com/naveeddogar/Thor-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/naveeddogar/Dragon-MD/issues"
+                 "url": "https://github.com/naveeddogar/Thor-MD/issues"
                   },
-                 "homepage": "https://github.com/naveeddogar/Dragon-MD#readme"
+                 "homepage": "https://github.com/naveeddogar/Thor-MD#readme"
                   }
