@@ -1,9 +1,9 @@
- <h1 align="center"> Dragon Md </h1> 
-<p align="center"> Introducing Dragon_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+ <h1 align="center"> Thor Md </h1> 
+<p align="center"> Introducing Thor_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
   <a href="https://youtube.com/@dragonmd">
-    <img alt="Suhail docs" height="300" src="https://i.imgur.com/ZL4n6bK.jpeg">
+    <img alt="Thor docs" height="300" src="https://telegra.ph/file/4e406c1a71d16c9be980a.jpg">
   </a>
 </p>
   
