@@ -66,7 +66,7 @@
 
 
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](coming soon)***
-6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/naveeddogar/Thor-MD)***
+6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Saad143ss/Thor-MD)***
 7.  ***Deploy on [`Replit`](https://replit.com/github.com/naveeddogar/Thor-MD)***
 
 ##
