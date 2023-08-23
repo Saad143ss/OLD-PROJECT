@@ -1,7 +1,7 @@
 {
                "name": "Thor-MD",
                "version": "1.0.1",
-               "description": "Multi device whatsapp bot by Naveed Dogar.",
+               "description": "Multi device whatsapp bot by Saad Ibrahim.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -9,7 +9,7 @@
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name Thor_Md",
                 "stop": "pm2 stop Thor_Md"
                 },
-               "author": "naveeddogar",
+               "author": "SaadIbrahim",
               "dependencies": {
                        "@sampandey001/baileys": "latest",
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -72,10 +72,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/naveeddogar/Thor-MD.git"
+                 "url": "git+https://github.com/Saad143ss/Thor-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/naveeddogar/Thor-MD/issues"
+                 "url": "https://github.com/Saad143ss/Thor-MD/issues"
                   },
-                 "homepage": "https://github.com/naveeddogar/Thor-MD#readme"
+                 "homepage": "https://github.com/Saad143ss/Thor-MD#readme"
                   }
