@@ -8,7 +8,7 @@ const {  fetchJson, getBuffer} = require('../lib/')
 
 //----------------------------------------------------------------------
 cmd({
-            pattern: "ponnke",
+            pattern: "poke",
             category: "reaction",
             use: '<quote|reply|tag>',
         },
