@@ -3,7 +3,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, ''): '923096566451';
+global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, ''): '923156157942';
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Thor_Md:Thor_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority" ;
 global.port=5000  ;
 global.audio = '' ; 
@@ -11,13 +11,13 @@ global.video = '' ;
 global.blockJids = process.env.BLOCK_JID ||'120363023983262391@g.us' ;
 global.allowJids = process.env.ALLOW_JID ||'120363022922797633@g.us' ;
 global.email = 'textnow1pak@gmail.com' ;
-global.github = 'https://github.com/naveeddogar/Thor-MD' ;
+global.github = 'https://github.com/Saad143ss/Thor-MD' ;
 global.location = 'Multan Pakistan' ;
 global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi'
 global.gurl = 'https://youtube.com/@saadibrahim_900' ; // add your username
 global.sudo =  process.env.SUDO || "923096566451" ;
 global.devs = "923096566451"; //Dont change it From here
-global.website = 'https://github.com/naveeddogar/Thor-MD' ; //wa.me/+91000000000000
+global.website = 'https://github.com/Saad143ss/Thor-MD' ; //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/4e406c1a71d16c9be980a.jpg' ;
 module.exports = {
   sessionName: process.env.SESSION_ID || '',      //Put Your Session Id Here
