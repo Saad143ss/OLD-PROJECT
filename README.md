@@ -31,7 +31,7 @@
 
  
       
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+THOR-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY NAVEED DOGAR ;PUBLIC+RELESED+DATE; COMING...; THIS +BOT IS+AMAZING; TEAM+THOR-MD;SO FULL+SCRIPT+CREDIT+GOES+TO;TEAM THOR." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+THOR-MD ;MULTI+DEVICE+WHATSAPP+BOT;MADE+BY SAAD IBRAHIM ;CREATED+BY NAVEED DOGAR;BOT PUBLIC+RELEASE DATE; COMING SOON...; TEAM+THOR-MD;" alt="Typing SVG" /></a>
   </p>
   <br>
 
