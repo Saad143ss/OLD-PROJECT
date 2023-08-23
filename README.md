@@ -9,7 +9,7 @@
   
    
 <p align="center">
-  <a href="https://wa.me/+923096566451?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Thor-Md+Repo" target="_blank">
+  <a href="https://chat.whatsapp.com/Fd08osh2TvX9WekceXUfuz" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a aria-label="Thor_Md is free to use" href="https://github.com/naveeddogar/Thor-MD/blob/main/LICENCE" target="_blank">
