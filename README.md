@@ -59,7 +59,7 @@
  
 ## Deployment Methods
 ---
-1.  ***Get [`SESSION ID`](https://replit.com/@naveeddogar/Thor-MD) by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`***
+1.  ***Get [`SESSION ID`](https://replit.com/@naveeddogar/Thor-MD-QR-Generator) by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](Coming Soon).***
 3.  ***Click [`FORK`](https://github.com/naveeddogar/Thor-MD/fork) and `Star ⭐ Repository` if you Like that Bot.***
 4.  ***Deploy tutorial [`Youtube Video`](Coming Soon..).***
