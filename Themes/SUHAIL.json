@@ -11,7 +11,7 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },
         "global": {
-            "botName": " Powered by Naveed Dogar",
+            "botName": " Powered by Saad Ibrahim",
             "body": "whatsapp User Bot",
             "greet2" : "Thanks To Naveed Ser",
             "pic1": "https://telegra.ph/file/4e406c1a71d16c9be980a.jpg", 
@@ -27,8 +27,8 @@
             "promote": "Admin Role Given to Saad",
             "pmallow": "*Hii,This is Thor\n You have been blocked for spamming.\n\n _Powered by Saad Ibrahim_",
             "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n Join Public Support Group : \nhttps://chat.whatsapp.com/Fd08osh2TvX9WekceXUfuz\n\n*Thor_Md*",
-            "permited": "Hii Sir*\n\nNow You are permitted by my owner to pm now.\n\n _Powered by Naveed Dogar_", 
-            "revoked" : "*Hii Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by Naveed Dogar_",
+            "permited": "Hii Sir*\n\nNow You are permitted by my owner to pm now.\n\n _Powered by Saad Ibrahim_", 
+            "revoked" : "*Hii Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by Saad Ibrahim_",
             "demote": "Uhh,Admin Role Taken back",
             "antlink": "Link Detected.\n*Good Bye Rouge pirate*",
             "session": "\n*This is your session.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Thor_Md*",
