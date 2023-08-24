@@ -7,12 +7,12 @@
 //                                                                                                      // 
 //                                         Ｖ：１．０．１                                                // 
 //                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
+//                     ████████╗██╗  ██╗ ██████╗ ██████╗     ███╗   ███╗██████╗                 //       
+//                    ╚══██╔══╝██║  ██║██╔═══██╗██╔══██╗    ████╗ ████║██╔══██╗                //  
+//                        ██║   ███████║██║   ██║██████╔╝    ██╔████╔██║██║  ██║                //    
+//                        ██║   ██╔══██║██║   ██║██╔══██╗    ██║╚██╔╝██║██║  ██║                //     
+//                        ██║   ██║  ██║╚██████╔╝██║  ██║    ██║ ╚═╝ ██║██████╔╝                //   
+//                        ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚═╝     ╚═╝╚═════╝                   //  
 //                                                                                                      //
 //                                                                                                      //
 //                                                                                                      //
@@ -20,16 +20,16 @@
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/c/@SuhailTechInfo0
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Thor-Md
+   * @author : Saad143ss
+   * @youtube : https://www.youtube.com/c/@saadibrahim_900
+   * @description : Thor-Md ,A Multi-functional whatsapp user bot.
    * @version 1.0.1 
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * ┌┤Created By Suhail Tech Info.
-   * © 2023 Suhail-Md ✭ ⛥.
+   * ┌┤Created By Naveed Dogar.
+   * © 2023 Thor-Md ✭ ⛥.
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
