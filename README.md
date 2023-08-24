@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@saadibrahim_900">
-    <img alt="Thor docs" height="300" src="https://telegra.ph/file/4e406c1a71d16c9be980a.jpg">
+    <img alt="Thor docs" height="300" src="k">
   </a>
 </p>
   
@@ -27,14 +27,13 @@
 
 
 
-# Its Not Available For Deploy At This Time 
-
+# Its old project 
  
       
 <p align="center">
 <div align="center"> 
 <a href="https://git.io/typing-svg"><img
- src="https://readme-typing-svg.demolab.com?font=Impact+Dirt&size=65&pause=1000&color=15ff63&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=THIS+IS+THOR-MD;MULTI DEVICE+WHATSAPP+BOT;MADE BY SAAD+IBRAHIM ; CREATE+BY NAVEED+DOGAR"
+ src="https://readme-typing-svg.demolab.com?font=Impact+Dirt&size=65&pause=1000&color=15ff63&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=THIS+IS+THOR-MD;OLD+PROJECT+BOT;MADE BY SAAD+IBRAHIM ; CREATE+BY NAVEED+DOGAR"
  alt="Typing SVG" /></a>     
 </p>
 
@@ -56,36 +55,3 @@
 
 
   
- 
-## Deployment Methods
----
-1.  ***Get [`SESSION ID`](https://replit.com/@naveeddogar/Thor-MD-QR-Generator) by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`***
-2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](Coming Soon).***
-3.  ***Click [`FORK`](https://github.com/naveeddogar/Thor-MD/fork) and `Star ⭐ Repository` if you Like that Bot.***
-4.  ***Deploy tutorial [`Youtube Video`](Coming Soon..).***
-
-
-5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](coming soon)***
-6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Saad143ss/Thor-MD)***
-7.  ***Deploy on [`Replit`](https://replit.com/github.com/naveeddogar/Thor-MD)***
-
-##
-
-
-***Use this Public MongoDb Key, If you dont have.!***
-```
-mongodb+srv://Thor_Md:Thor_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority
-```
----
-
-- Star ⭐ repo if you like this bot.
-
-
-
-### Thanks To
-- [Sam Pamday](https://github.com/Sampandey001) 
-
-
-The Thor_Md is made available under the [GPL-3 license](https://github.com/naveeddogar/Thor-MD/blob/main/LICENCE).
-
-##Deploy on [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/fo/Thor-MD)
